@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log*
+.env
+.env.local
+uploads/ocr/*
+!uploads/ocr/.gitkeep
+.git
+.gitignore
+*.log
+README.md
